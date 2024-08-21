@@ -7,7 +7,7 @@ from tkinter import messagebox
 #####################################################################################################################################
 
 def userwarn():
-    messagebox.showwarning("ok","lll")
+    messagebox.showwarning("Warning","Make Sure To Start Key With Any Digit Other Than 0")
 
 
 #####################################################################################################################################
