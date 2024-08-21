@@ -13,7 +13,7 @@ def userwarn():
 #####################################################################################################################################
 
 def credits():                      #CREDITS SYSTEM
-    messagebox.showinfo('Credits', 'This System Was Made By Sourav, Make Sure To Check Out :-\nGithub - 2007sourav\nTwitter/X - 2007sourav')
+    messagebox.showinfo('Credits', 'This System Was Made By Sourav, Make Sure To Check Out :-\nGithub - @2007sourav\nTwitter/X - @2007sourav')
     root.destroy()
 
 #####################################################################################################################################
