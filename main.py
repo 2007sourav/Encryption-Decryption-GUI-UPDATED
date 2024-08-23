@@ -183,9 +183,9 @@ ex.pack()
 #####################################################################################################################################
 fe = Frame(root, borderwidth=6, bg="#C4DEC4", relief=SUNKEN)
 fe.pack(side=TOP, fill="x")
-eth = Label(fe, text="Encrypter :- :-", font="Helvetica 22 bold underline", fg="black", bg="#C4DEC4")
+eth = Label(fe, text="Encrypter :-", font="Helvetica 22 bold underline", fg="black", bg="#C4DEC4")
 eth.pack()
-et = Label(fe, text="Text Encrypter -:\nIt converts your given text\nto set of text which is not\nunderstandable easily and can only\nbe decrypted through a \nspecific KEY", font="Helvetica 16 bold", fg="#464E47", bg="#C4DEC4")
+et = Label(fe, text="Text Encrypter\nIt converts your given text\nto set of text which is not\nunderstandable easily and can only\nbe decrypted through a \nspecific KEY", font="Helvetica 16 bold", fg="#464E47", bg="#C4DEC4")
 et.pack()
 #####################################################################################################################################
 fd = Frame(root, borderwidth=6, bg="#C4DEC4", relief=SUNKEN,pady=0)
